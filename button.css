@@ -1,0 +1,8 @@
+.button {
+    width: 150px; /* Ancho del botón */
+    height: 50px; /* Altura del botón */
+    background-image: url('regalo icono.png'); /* Ruta de la imagen PNG */
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el botón */
+    border: none; /* Sin borde */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
